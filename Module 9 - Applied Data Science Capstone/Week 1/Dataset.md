@@ -1,4 +1,4 @@
-## Downloading Example Dataset
+## Downloading the Example Dataset
 > 
 > * * *
 > 
